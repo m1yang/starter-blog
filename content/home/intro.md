@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
-title = "✏️ Blog Template"
-subtitle = "For [Academic Website Builder](https://sourcethemes.com/academic/)"
+title = "✏️ Everything is permitted."
+subtitle = "爱咋咋地"
 
 [design.background]
   # Background color.
-  color = "#090a0b"
+  color = "#FF8C00"
 
   # Text color (true=light or false=dark).
   text_color_light = true
