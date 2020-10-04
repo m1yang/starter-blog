@@ -2,7 +2,7 @@
 title: Mi Yang
 role: developer
 avatar_filename: icon.png
-bio: 使用 javascript, golang 编程, 前端、后端、测试的工作都能上手，相对测试更熟练一些，前后端需要面向搜索编程。
+bio: The world has kissed my soul with its pain, asking for its return in songs.
 social:
   - icon: envelope
     icon_pack: fas
