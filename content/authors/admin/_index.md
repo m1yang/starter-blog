@@ -1,7 +1,7 @@
 ---
 title: Mi Yang
 role: developer
-avatar_filename: icon.png
+avatar_filename: avatar.jpg
 bio: The world has kissed my soul with its pain, asking for its return in songs.
 social:
   - icon: envelope
