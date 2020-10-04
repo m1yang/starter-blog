@@ -10,7 +10,7 @@ subtitle = "爱咋咋地"
 
 [design.background]
   # Background color.
-  color = "#FF8C00"
+  color = "#282A36"
 
   # Text color (true=light or false=dark).
   text_color_light = true
