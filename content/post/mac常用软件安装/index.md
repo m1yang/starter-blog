@@ -11,7 +11,7 @@ categories:
 date: "2020-04-05T00:00:00Z"
 lastmod: "2020-04-17T00:00:00Z"
 featured: false
-draft: false
+draft: true
 ---
 > Homebrew是一款自由及开放源代码的软件包管理系统，用以简化macOS系统上的软件安装过程。
 

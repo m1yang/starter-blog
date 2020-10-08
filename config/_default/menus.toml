@@ -8,7 +8,12 @@
   url = "/"
   weight = 10
 
+# [[main]]
+#   name = "标签"
+#   url = "tags/"
+#   weight = 20
+
 [[main]]
   name = "关于"
   url = "about/"
-  weight = 20
+  weight = 30
