@@ -1,11 +1,13 @@
 ---
-title: 'UI自动化测试'
-subtitle:
+title: '自然语言编写UI自动化测试'
+subtitle: 使用工具cypress、cucumber
 summary: 
 authors:
 - miyang
 tags:
 - test
+- cypress
+- cucumber
 categories:
 - 测试
 date: "2020-04-05T00:00:00Z"
@@ -26,7 +28,7 @@ draft: true
 > **合理的分层** 讲如何结合以前的PageObject和现在的feature
 > **元素定位进阶** 讲如何更好的查找页面元素并保持高可用、易维护
 
-cypress基础建议先阅读[Vant Ling](https://klook.slab.com/users/mwyofduq) 写的slab，[Cypress UI自动化测试基础教程](https://klook.slab.com/drafts/a16p8x61) 、[cypress UI自动化测试解决方案](https://klook.slab.com/drafts/syh809p7) 或者[官方文档](https://docs.cypress.io/zh-cn/guides/overview/why-cypress.html#)。这里就不再赘述了。
+cypress基础建议先阅读[Vant Ling](https://xxx.slab.com/users/mwyofduq) 写的slab，[Cypress UI自动化测试基础教程](https://xxx.slab.com/drafts/a16p8x61) 、[cypress UI自动化测试解决方案](https://xxx.slab.com/drafts/syh809p7) 或者[官方文档](https://docs.cypress.io/zh-cn/guides/overview/why-cypress.html#)。这里就不再赘述了。
 
 ## 用例即代码
 

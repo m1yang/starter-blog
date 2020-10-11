@@ -1,14 +1,15 @@
 ---
-title: '网络基础'
+title: '互联网基础'
 subtitle: '常用垃圾话'
 summary: 有感情地朗读全文并背诵第三段和最后一段
 authors:
 - miyang
 tags:
-- 网络基础
+- http
+- html
+- TCP/IP
 categories:
-- 网络通信
-- 协议
+- 工作
 date: "2016-04-20T09:33:46Z"
 lastmod: "2019-04-17T00:00:00Z"
 featured: false

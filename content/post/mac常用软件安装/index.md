@@ -1,17 +1,18 @@
 ---
 title: '常用软件安装'
-subtitle:
-summary: 
+subtitle: 通过homebrew安装mac软件
+summary: 一般使用一台新的电脑，一开始总要装太多软件，所以写了个脚本来自动安装必要软件。
 authors:
 - miyang
 tags:
-- mac
-categories:
+- homebrew
 - os
+categories:
+- 工作
 date: "2020-04-05T00:00:00Z"
 lastmod: "2020-04-17T00:00:00Z"
 featured: false
-draft: true
+draft: false
 ---
 > Homebrew是一款自由及开放源代码的软件包管理系统，用以简化macOS系统上的软件安装过程。
 
@@ -160,4 +161,16 @@ brew upgrade && brew cask upgrade
 
 
 
-# to be continued
+# 常用指令：
+
+```
+cat /etc/nginx/xxx.conf | grep /v1/xxxserv -5 # 查看请求接口占用了哪个端口
+grep -hr "xxxserv\s" /etc/nginx/ -A 5 # 查看整个目录下的文件是否有配置对应接口
+netstat -plnt|grep 10437 # 查看端口监听的服务
+ps -aux|grep xxxserv # 查看服务启动的相关配置项
+tailf /tmp/xxxserv.log # 查看服务日志
+supervisorctl status # 后端服务状态
+pm2 status # 前端服务状态
+
+num=`tr -cd "[0-9]"`; # 过滤数字
+```

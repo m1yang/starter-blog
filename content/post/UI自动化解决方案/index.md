@@ -1,11 +1,12 @@
 ---
-title: 'Cypress方案'
+title: 'UI自动化解决方案'
 subtitle:
 summary: 
 authors:
 - miyang
 tags:
 - test
+- cypress
 categories:
 - 测试
 date: "2020-04-05T00:00:00Z"
@@ -17,11 +18,11 @@ draft: true
 
 如果你是新手，请先看之前的文档。这份文档的目的是在使用cypress的过程中，提供解决方案，不提供cypress的教程方式。关于解决方案中，不懂的地方，可以私聊我们一起讨论
 
-[Cypress UI自动化测试基础教程](https://klook.slab.com/drafts/a16p8x61)
+[Cypress UI自动化测试基础教程](https://xxx.slab.com/drafts/a16p8x61)
 
 ## 问题及解决方案
 
-### 1. klook谷歌机器人验证问题，添加谷歌白名单。
+### 1. xxx谷歌机器人验证问题，添加谷歌白名单。
 
 在visit的url中添加headers
 
@@ -52,7 +53,7 @@ cy.get('header.title').first().should(($div) => {
     console.log(text)
     expect(text).to.eq("Popular Destinations")
     expect(text).to.include('Destinations')
-    expect(text).not.to.include('klook')
+    expect(text).not.to.include('xxx')
 })
 ```
 
@@ -150,7 +151,7 @@ describe("测试登录", () => {
     it("测试登录的标题", () => {
         cy.get_url("/")
         cy.url()
-            .should('include', "klook")
+            .should('include', "xxx")
     })
 })
 ```
@@ -186,7 +187,7 @@ Cypress.Commands.add("get_city", (aid, language) => {
 这里的接口会返回城市接口的数据，然后，就可以在测试用例中使用这份数据
 
 ```
-const page = require('../../../pageObject/klook-city-page.json')
+const page = require('../../../pageObject/xxx-city-page.json')
 const aid = "2"
 
 it(`检查城市名字与data数据中保存的城市名字是否一致 ${langs}`, () => {

@@ -1,11 +1,13 @@
 ---
-title: '接口测试'
-subtitle:
-summary: 
+title: '接口自动化测试'
+subtitle: 借助工具postman
+summary: 讲解postman如何通过csv文件实现接口自动化的测试
 authors:
 - miyang
 tags:
 - test
+- postman
+- 自动化测试
 categories:
 - 测试
 date: "2020-04-05T00:00:00Z"
@@ -70,7 +72,7 @@ transfer_policy_info中通过绑定policy_id来将policy信息和优惠券绑定
 
 静态数据的依赖问题很好解决，取一部分会使用的用文本存储起来就OK。但是动态数据，尤其是类似于ID这样的字段，无法提前预设、存储，只能实时的获取，就需要通过脚本来实时获取了。
 
-来看这次需求最主要的接口，policy创建接口，[相关文档](https://orion.klook.io/interface/interfaces/detail/21/497/6922/show)
+来看这次需求最主要的接口，policy创建接口，[相关文档](https://orion.xxx.io/interface/interfaces/detail/21/497/6922/show)
 
 ![](https://static.slab.com/prod/uploads/d9aeaycl/posts/images/Zex88Vtl0FYIoH8Q2FdpartG.png)
 

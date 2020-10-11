@@ -1,5 +1,5 @@
 ---
-title: 'Cypress 基础'
+title: 'Cypress 基础教程'
 subtitle:
 summary: 
 authors:
@@ -51,9 +51,9 @@ yarn run cypress open
 
 ### 创建测试文件
 
-1. 在文件夹**cypress/integration**创建第一个脚本文件：**klook_spec.js**
-1. 查看已经启动的GUI界面，会发现多了一个刚才创建的**klook_spec.js**文件
-1. 点击**klook_spec.js**文件，Cypress会自动启动浏览器，但是在浏览器中什么都没有
+1. 在文件夹**cypress/integration**创建第一个脚本文件：**xxx_spec.js**
+1. 查看已经启动的GUI界面，会发现多了一个刚才创建的**xxx_spec.js**文件
+1. 点击**xxx_spec.js**文件，Cypress会自动启动浏览器，但是在浏览器中什么都没有
 
 ### 执行测试用例及查看结果
 
@@ -104,7 +104,7 @@ describe('描述这个测试脚本', function() {
 ```
 describe('测试客路系统', function() {
   it('测试进入客路首页', function() {
-    cy.visit('https://www.klook.com')
+    cy.visit('https://www.xxx.com')
   })
 })
 ```
@@ -116,7 +116,7 @@ describe('测试客路系统', function() {
 创建一个测试的函数
 2.it('测试进入客路首页', function() {}
 创建一个测试用例的方法
-3.cy.visit('https://www.klook.com')
+3.cy.visit('https://www.xxx.com')
 执行测试用例步骤，打开客路系统
 ```
 
@@ -125,7 +125,7 @@ describe('测试客路系统', function() {
 ```
 describe('测试客路系统', function() {
   it('测试进入客路首页', function() {
-    cy.visit('https://www.klook.com')
+    cy.visit('https://www.xxx.com')
     #在页面中点击登录按钮
     cy.get('#login').click()
     #断言页面url中的确是登录页
