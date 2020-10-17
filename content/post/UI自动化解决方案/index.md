@@ -3,12 +3,9 @@ title: 'UI自动化解决方案'
 subtitle:
 summary: 
 authors:
-- miyang
-tags:
-- test
-- cypress
-categories:
-- 测试
+- admin
+tags: []
+categories: []
 date: "2020-04-05T00:00:00Z"
 lastmod: "2020-04-17T00:00:00Z"
 featured: false
@@ -29,7 +26,7 @@ draft: true
 ```
 cy.visit(url,{
   headers:{
-    "x-px-access-token":"crVsiOTO6xOhLKgYXtrwFsSoTqekOqvbpmA9ctRPZYlUzzJxvPaifeisNbpjYTIu",
+    "x-px-access-token":"",
 }
 })
 ```

@@ -4,7 +4,7 @@
 title: "Typescript Bungee Jumping"
 subtitle: "如果js能满足你的工作需求，就不要再深入学习ts了"
 summary: "踩了一些文章和视频的坑后，发现基本都没讲清楚typescript中集合的概念。这个被忽略的部分，如果能有一个很好的理解，会减少不小的记忆负担。所以我把自己认为对的理解写下来，另外就是特想吐槽一下ts。"
-authors: []
+authors: [admin]
 tags: []
 categories: []
 date: 2020-10-12T06:43:35+08:00

@@ -3,11 +3,9 @@ title: '需求分析-优惠券'
 subtitle: 以优惠券为例
 summary: 
 authors:
-- miyang
-tags:
-- test
-categories:
-- 工作
+- admin
+tags: []
+categories: [测试]
 date: "2020-04-05T00:00:00Z"
 lastmod: "2020-04-17T00:00:00Z"
 featured: false

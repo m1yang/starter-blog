@@ -3,10 +3,10 @@
 
 title: "二分查找"
 subtitle: "借着二分这一算法基础知识，简单的聊聊边界值"
-summary: ""
-authors: [miyang]
-tags: [算法]
-categories: [工作]
+summary: "二分法其实是一种逼近思想，通过不断和中间数比较，找到最接近的那个数。"
+authors: [admin]
+tags: []
+categories: [算法]
 date: 2020-10-16T06:25:14+08:00
 lastmod: 2020-10-16T06:25:14+08:00
 featured: false

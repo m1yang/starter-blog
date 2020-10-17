@@ -3,11 +3,9 @@ title: '编程随想'
 subtitle: '记录了自己学编程的几个阶段'
 summary: '编程最常见的就是赋值语句 `x= expr`，如何理解和记忆这段语句基本贯穿了目前我整个编程学习过程。'
 authors:
-- miyang
-tags:
-- 想法
-categories:
-- 工作
+- admin
+tags: []
+categories: []
 date: "2020-10-10T00:37:49+08:00"
 lastmod: "2020-10-10T00:37:49+08:00"
 featured: false

@@ -3,7 +3,7 @@ title: '资本没有未来'
 subtitle: '被资本裹挟的我，也没有未来'
 summary: '有些东西还不太能很好的表达出来，只能先零散将这些想法的写下来。'
 authors:
-- miyang
+- admin
 tags:
 - 想法
 categories:

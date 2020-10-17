@@ -3,12 +3,9 @@ title: '常用软件安装'
 subtitle: 通过homebrew安装mac软件
 summary: 一般使用一台新的电脑，一开始总要装太多软件，所以写了个脚本来自动安装必要软件。
 authors:
-- miyang
-tags:
-- homebrew
-- os
-categories:
-- 工作
+- admin
+tags: []
+categories: []
 date: "2020-04-05T00:00:00Z"
 lastmod: "2020-04-17T00:00:00Z"
 featured: false

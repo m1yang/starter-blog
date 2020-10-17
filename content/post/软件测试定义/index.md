@@ -3,12 +3,9 @@ title: '软件测试定义'
 subtitle: 
 summary: '软件测试的经典定义是：在规定的条件下对程序进行操作，以发现程序错误，衡量软件质量，并对其是否能满足设计要求进行评估的过程。'
 authors:
-- miyang
-tags:
-- test
-- wikipedia
-categories:
-- 工作
+- admin
+tags: []
+categories: [测试]
 date: "2017-12-29T14:58:23Z"
 lastmod: "2020-04-17T00:00:00Z"
 featured: false

@@ -3,7 +3,7 @@ title: 'Cypress 基础教程'
 subtitle:
 summary: 
 authors:
-- miyang
+- admin
 tags:
 - test
 categories:

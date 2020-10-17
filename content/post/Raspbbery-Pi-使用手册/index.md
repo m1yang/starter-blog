@@ -3,11 +3,9 @@ title: 'Raspbbery Pi 使用手册'
 subtitle:
 summary: '给玩板子做个笔记，省得重新烧录又要查一堆文档'
 authors:
-- miyang
-tags:
-- 树莓派
-categories:
-- Linux
+- admin
+tags: []
+categories: []
 date: "2017-10-17T10:08:04Z"
 lastmod: "2020-04-17T00:00:00Z"
 featured: false

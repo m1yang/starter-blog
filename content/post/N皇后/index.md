@@ -3,10 +3,10 @@
 
 title: "N皇后"
 subtitle: ""
-summary: ""
-authors: [miyang]
-tags: [算法]
-categories: [工作]
+summary: "N皇后问题，重点在于递归那一步，让代码可以遍历所有结果。难点在于判断皇后是否可以落子那一步，不熟悉这套判断，一时间也很难写成恰当的判定条件来。"
+authors: [admin]
+tags: []
+categories: [算法]
 date: 2020-10-16T06:25:40+08:00
 lastmod: 2020-10-16T06:25:40+08:00
 featured: false

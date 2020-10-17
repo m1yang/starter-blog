@@ -2,14 +2,9 @@
 title: '接口自动化测试'
 subtitle: '借助工具postman'
 summary: '讲解postman如何通过csv文件实现接口自动化的测试'
-authors:
-- miyang
-tags:
-- test
-- postman
-- 自动化测试
-categories:
-- 测试
+authors: [admin]
+tags: []
+categories: [测试]
 date: "2020-04-05T00:00:00Z"
 lastmod: "2020-04-17T00:00:00Z"
 featured: false

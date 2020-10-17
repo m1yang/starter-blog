@@ -3,7 +3,7 @@ title: '自然语言编写UI自动化测试'
 subtitle: 使用工具cypress、cucumber
 summary: 
 authors:
-- miyang
+- admin
 tags:
 - test
 - cypress
